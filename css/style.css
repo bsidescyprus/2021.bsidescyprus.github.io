@@ -414,12 +414,12 @@ textarea.input {
 .number h3 {
   font-size: 42px;
   margin-bottom: 0px;
-  color: #00878d;
+  color: #013763;
 }
 
 .number p {
   text-transform: uppercase;
-  color: #00878d;
+  color: #013763;
 }
 
 /*=========================================================
@@ -822,7 +822,7 @@ textarea.input {
 }
 
 .contact h3 {
-  color: #00878d;
+  color: #013763;
 }
 
 #map {
@@ -890,7 +890,7 @@ textarea.input {
   height: 30px;
   text-align: center;
   border-radius: 50%;
-  background: #00878d;
+  background: #013763;
   color: #fff;
   line-height: 30px;
   margin-right: 15px;

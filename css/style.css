@@ -274,7 +274,7 @@ textarea.input {
 }
 
 #header.transparent-navbar .main-nav li a {
-  color: #013763;
+  color: #BF6546;
 }
 
 #header.fixed-navbar .main-nav li a {
@@ -288,12 +288,12 @@ textarea.input {
   bottom: -3px;
   width: 100%;
   left: 0;
-  background: #013763;
+  background: #BF6546;
 }
 
 .main-nav li a:hover, .main-nav li a:focus {
   background-color: transparent;
-  color: #013763;
+  color: #BF6546;
 }
 
 #header.transparent-navbar .main-nav li a:hover {
@@ -309,7 +309,7 @@ textarea.input {
   margin: 15px;
   padding: 0;
   font-size: 32px;
-  color: #013763;
+  color: #BF6546;
 }
 
 #header.transparent-navbar .navbar-toggle {
@@ -317,7 +317,7 @@ textarea.input {
 }
 
 #header.fixed-navbar .navbar-toggle {
-  color: #013763 !important;
+  color: #BF6546 !important;
 }
 
 /* Mobile nav */
@@ -338,10 +338,10 @@ textarea.input {
     display: none;
   }
   #header.transparent-navbar .main-nav li a {
-    color: #013763;
+    color: #BF6546;
   }
   .main-nav li a:hover, .main-nav li a:focus, .main-nav li.active a {
-    background-color: #013763;
+    background-color: #BF6546;
     color: #fff !important;
   }
   .navbar-toggle {
@@ -390,13 +390,13 @@ textarea.input {
 	CFP
 ===========================================================*/
 
-#cfp { background: #013763 !important;}
+#cfp { background: #BF6546 !important;}
 
 /*=========================================================
 	VOLUNTEERS
 ===========================================================*/
 
-#cfv { background: #013763 !important;}
+#cfv { background: #BF6546 !important;}
 
 
 /*=========================================================
@@ -414,12 +414,12 @@ textarea.input {
 .number h3 {
   font-size: 42px;
   margin-bottom: 0px;
-  color: #013763;
+  color: #BF6546;
 }
 
 .number p {
   text-transform: uppercase;
-  color: #013763;
+  color: #BF6546;
 }
 
 /*=========================================================
@@ -822,7 +822,7 @@ textarea.input {
 }
 
 .contact h3 {
-  color: #013763;
+  color: #BF6546;
 }
 
 #map {
@@ -890,7 +890,7 @@ textarea.input {
   height: 30px;
   text-align: center;
   border-radius: 50%;
-  background: #013763;
+  background: #BF6546;
   color: #fff;
   line-height: 30px;
   margin-right: 15px;
